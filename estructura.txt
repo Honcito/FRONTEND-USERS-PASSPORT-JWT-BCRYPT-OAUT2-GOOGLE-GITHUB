@@ -1,0 +1,28 @@
+├── .env
+├── .gitignore
+├── README.md
+├── eslint.config.js
+├── generar-arbol.js
+├── index.html
+├── package-lock.json
+├── package.json
+├── public
+│   └── vite.svg
+├── src
+│   ├── App.jsx
+│   ├── assets
+│   │   └── react.svg
+│   ├── components
+│   │   ├── Footer.jsx
+│   │   └── Header.jsx
+│   ├── index.css
+│   ├── main.jsx
+│   ├── pages
+│   │   ├── AuthRedirectHandler.jsx
+│   │   ├── HomePage.jsx
+│   │   ├── LoginPage.jsx
+│   │   ├── RegisterCopy.jsx
+│   │   └── RegisterPage.jsx
+│   └── services
+│       └── authService.js
+└── vite.config.js
